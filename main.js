@@ -2,9 +2,6 @@
 
 
 
-int main()
-{
+function seila(params) {
 	
-
-	return 0;
 }
